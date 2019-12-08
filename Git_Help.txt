@@ -28,3 +28,18 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 11. git remote add origin https://github.com/atyagi012/Sel_Nov16.git       - Onetime
 12. git push -u origin master 
 
+=============================================
+
+When downloading code/project/file from repo
+
+If FIRST TIME
+
+clone           //onetime
+git clone REPO_ADDS
+
+if done clone already
+
+pull
+git pull branchName
+
+

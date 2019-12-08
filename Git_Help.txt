@@ -40,7 +40,7 @@ git clone REPO_ADDS
 if done clone already
 
 pull
-git pull branchName
+git pull origin BRANCHNAME
 
 ----------------------------------------------
 
